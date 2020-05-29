@@ -1,5 +1,5 @@
 # Dell-7472-7572-Hackintosh-EFI
-CPU：i7-8550U
+CPU：Intel Core i7-8550U 1.8GHz
 
 核显：Intel(R) UHD Graphics 620
 
