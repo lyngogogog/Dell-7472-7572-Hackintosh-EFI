@@ -5,6 +5,6 @@ CPU：Intel Core i7-8550U 1.8GHz
 
 独显：NVIDIA GeForce MX150 4GB（无法驱动）
 
-内存：8GB Samsung DDR4 2400MHz
-
 网卡：DW1820（无法驱动，已更换DW1820A）
+
+内存：8GB Samsung DDR4 2400MHz
