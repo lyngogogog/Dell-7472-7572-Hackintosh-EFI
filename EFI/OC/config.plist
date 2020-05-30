@@ -259,7 +259,7 @@
 			<dict>
 				<key>#disable-agdc</key>
 				<data>AQAAAA==</data>
-				<key>#model</key>
+				<key>model</key>
 				<string>Intel UHD Graphics 620</string>
 				<key>AAPL,ig-platform-id</key>
 				<data>AAAWWQ==</data>
@@ -303,8 +303,6 @@
 				<data>AAAAgA==</data>
 				<key>hda-gfx</key>
 				<string>onboard-1</string>
-				<key>model</key>
-				<string>NVIDIA GeForce RTX 2080Ti</string>
 			</dict>
 		</dict>
 	</dict>
