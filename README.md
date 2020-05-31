@@ -8,3 +8,5 @@ CPU：Intel Core i7-8550U 1.8GHz
 网卡：DW1820（无法驱动，已更换DW1820A）
 
 内存：8GB Samsung DDR4 2400MHz
+
+测试版本：10.15.5
