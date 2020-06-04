@@ -9,4 +9,4 @@ CPU：Intel Core i7-8550U 1.8GHz
 
 内存：8GB Samsung DDR4 2400MHz
 
-OS版本：10.15.5
+OS版本：10.15.6 Beta1
